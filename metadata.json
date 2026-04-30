@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake & Music",
+  "description": "Play snake while listening to AI generated music tracks in a dark neon interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
